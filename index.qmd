@@ -1,0 +1,31 @@
+---
+title: "About Me"
+page-layout: article
+---
+
+# 👋 Hi, I'm Heidi
+
+<img src="profile.jpeg" width="200" style="border-radius: 50%; margin-bottom: 20px;">
+
+I'm a senior at UCLA, studying Statistics and Data Science. I currently work within the consulting industry as a Data & AI analyst.
+
+My interests include:
+
+- Data analytics & visualization  
+- Machine learning & AI  
+- Statistical modeling
+- Product & Strategy 
+
+
+
+---
+
+## 📄 Download My Resume
+[**Click here to download my CV**](resume.pdf)
+
+---
+
+## 🌐 Connect With Me  
+- **LinkedIn:** <https://www.linkedin.com/in/heidijyyu/>  
+- **GitHub:** <https://github.com/hyu4>  
+- **Email:** heidiyu@g.ucla.edu  

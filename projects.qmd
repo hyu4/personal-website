@@ -1,0 +1,28 @@
+---
+title: "Projects & Research"
+page-layout: article
+---
+
+# 🚀 Projects 
+
+## 1. **BruinMart - UCLA Online Marketplace**
+
+Built a platform for UCLA students to purchase and sell items.
+
+Repo: <https://github.com/ythou00/BruinMart_Official>
+
+------------------------------------------------------------------------
+
+## 2. **Analysis of World Happiness**
+
+Analyzed happiness scores across countries using the World Happiness Report to investigate what factors are strong predictors of a country’s happiness scores, and how can these insights inform global policy-making.
+
+Website: <https://dhhappiness2024.humspace.ucla.edu/>
+
+------------------------------------------------------------------------
+
+## 3. **Credit Score Classification**
+
+Developed classification models to predict credit scores in Python.
+
+Repo: <https://github.com/hyu4/Credit-Score-Classification>

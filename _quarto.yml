@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Heidi Yu"
+  navbar:
+    right:
+      - text: "About"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/heidijyyu"
+      - icon: github
+        href: "https://github.com/hyu4"
+      - icon: envelope
+        href: "mailto:heidiyu@g.ucla.edu"
+      - icon: file-earmark-person
+        text: "Resume"
+        href: resume.pdf
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

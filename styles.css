@@ -1,0 +1,14 @@
+/* Round profile picture */
+img {
+  border-radius: 12px;
+}
+
+/* Slightly larger headings */
+h1, h2 {
+  font-weight: 700;
+}
+
+/* Clean spacing */
+body {
+  line-height: 1.6;
+}
