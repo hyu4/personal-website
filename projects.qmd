@@ -13,7 +13,7 @@ Website: <https://bruinmart.vercel.app/>
 
 ## 2. **Analysis of World Happiness**
 
-Analyzed happiness scores across countries using the World Happiness Report to investigate what factors are strong predictors of a country’s happiness scores, and how can these insights inform global policy-making.
+Analyzed happiness scores across countries using the World Happiness Report to investigate strong predictors of a country’s happiness scores and how these insights inform global policy-making.
 
 Website: <https://dhhappiness2024.humspace.ucla.edu/>
 

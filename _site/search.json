@@ -25,7 +25,7 @@
     "href": "projects.html#analysis-of-world-happiness",
     "title": "🚀 Projects",
     "section": "2. Analysis of World Happiness",
-    "text": "2. Analysis of World Happiness\nAnalyzed happiness scores across countries using the World Happiness Report to investigate what factors are strong predictors of a country’s happiness scores, and how can these insights inform global policy-making.\nWebsite: https://dhhappiness2024.humspace.ucla.edu/"
+    "text": "2. Analysis of World Happiness\nAnalyzed happiness scores across countries using the World Happiness Report to investigate strong predictors of a country’s happiness scores and how these insights inform global policy-making.\nWebsite: https://dhhappiness2024.humspace.ucla.edu/"
   },
   {
     "objectID": "projects.html#credit-score-classification",
@@ -42,11 +42,11 @@
     "text": "I’m a senior at UCLA, studying Statistics and Data Science. I currently work within the consulting industry as a Data & AI analyst.\nMy interests include:\n\nData analytics & visualization\n\nMachine learning & AI\n\nStatistical modeling\nProduct & Strategy\n\n\n\n\nView Resume\n\n\n\n\n\nLinkedIn: https://www.linkedin.com/in/heidijyyu/\n\nGitHub: https://github.com/hyu4\n\nEmail: heidiyu@g.ucla.edu"
   },
   {
-    "objectID": "index.html#download-my-resume",
-    "href": "index.html#download-my-resume",
+    "objectID": "index.html#my-resume",
+    "href": "index.html#my-resume",
     "title": "About Me",
     "section": "",
-    "text": "Click here to download my CV"
+    "text": "View Resume"
   },
   {
     "objectID": "index.html#connect-with-me",
@@ -54,12 +54,5 @@
     "title": "About Me",
     "section": "",
     "text": "LinkedIn: https://www.linkedin.com/in/heidijyyu/\n\nGitHub: https://github.com/hyu4\n\nEmail: heidiyu@g.ucla.edu"
-  },
-  {
-    "objectID": "index.html#my-resume",
-    "href": "index.html#my-resume",
-    "title": "About Me",
-    "section": "",
-    "text": "View Resume"
   }
 ]
