@@ -1,17 +1,45 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m a senior at UCLA, studying Statistics and Data Science. I currently work within the consulting industry as a Data & AI analyst.\nMy interests include:\n\nData analytics & visualization\n\nMachine learning & AI\n\nStatistical modeling\nProduct & Strategy\n\n\n\n\nClick here to download my CV\n\n\n\n\n\nLinkedIn: https://www.linkedin.com/in/heidijyyu/\n\nGitHub: https://github.com/hyu4\n\nEmail: heidiyu@g.ucla.edu"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "🚀 Projects",
+    "section": "",
+    "text": "Built a platform for UCLA students to purchase and sell items.\nWebsite: https://bruinmart.vercel.app/home"
+  },
+  {
+    "objectID": "projects.html#bruinmart---ucla-online-marketplace",
+    "href": "projects.html#bruinmart---ucla-online-marketplace",
+    "title": "🚀 Projects",
+    "section": "",
+    "text": "Built a platform for UCLA students to purchase and sell items.\nWebsite: https://bruinmart.vercel.app/home"
+  },
+  {
+    "objectID": "projects.html#analysis-of-world-happiness",
+    "href": "projects.html#analysis-of-world-happiness",
+    "title": "🚀 Projects",
+    "section": "2. Analysis of World Happiness",
+    "text": "2. Analysis of World Happiness\nAnalyzed happiness scores across countries using the World Happiness Report to investigate what factors are strong predictors of a country’s happiness scores, and how can these insights inform global policy-making.\nWebsite: https://dhhappiness2024.humspace.ucla.edu/"
+  },
+  {
+    "objectID": "projects.html#credit-score-classification",
+    "href": "projects.html#credit-score-classification",
+    "title": "🚀 Projects",
+    "section": "3. Credit Score Classification",
+    "text": "3. Credit Score Classification\nDeveloped classification models to predict credit scores in Python.\nRepo: https://github.com/hyu4/Credit-Score-Classification"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a senior at UCLA, studying Statistics and Data Science. I currently work within the consulting industry as a Data & AI analyst.\nMy interests include:\n\nData analytics & visualization\n\nMachine learning & AI\n\nStatistical modeling\nProduct & Strategy\n\n\n\n\nClick here to download my CV\n\n\n\n\n\nLinkedIn: https://www.linkedin.com/in/heidijyyu/\n\nGitHub: https://github.com/hyu4\n\nEmail: heidiyu@g.ucla.edu"
   },
   {
     "objectID": "index.html#download-my-resume",
@@ -26,61 +54,5 @@
     "title": "About Me",
     "section": "",
     "text": "LinkedIn: https://www.linkedin.com/in/heidijyyu/\n\nGitHub: https://github.com/hyu4\n\nEmail: heidiyu@g.ucla.edu"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects & Research",
-    "section": "",
-    "text": "Built a platform for UCLA students to purchase and sell items.\nRepo: https://github.com/ythou00/BruinMart_Official\n\n\n\n\nAnalyzed happiness scores across countries using the World Happiness Report to investigate what factors are strong predictors of a country’s happiness scores, and how can these insights inform global policy-making.\nWebsite: https://dhhappiness2024.humspace.ucla.edu/\n\n\n\n\nDeveloped classification models to predict credit scores in Python.\nRepo: https://github.com/hyu4/Credit-Score-Classification"
-  },
-  {
-    "objectID": "projects.html#ai-music-generator-in-progress",
-    "href": "projects.html#ai-music-generator-in-progress",
-    "title": "Projects & Research",
-    "section": "",
-    "text": "Exploring the intersection of deep learning and musicality to create generative models that capture emotion without plagiarizing existing works."
-  },
-  {
-    "objectID": "projects.html#home-price-forecasting-dashboard",
-    "href": "projects.html#home-price-forecasting-dashboard",
-    "title": "Projects & Research",
-    "section": "",
-    "text": "A modeling project using time-series regression to forecast residential construction costs for the Mid-Atlantic and Southeast regions.\n\nBuilt with: Python, scikit-learn, Prophet\n\nFeatures: Interactive dashboard, cashflow forecasting\n\nRepo: https://github.com/YOUR-REPO"
-  },
-  {
-    "objectID": "projects.html#bruinmart-marketplace-messaging-center-ui",
-    "href": "projects.html#bruinmart-marketplace-messaging-center-ui",
-    "title": "Projects & Research",
-    "section": "",
-    "text": "Designed a modern messaging interface in React with a dark yellow/black theme for UCLA’s student marketplace platform."
-  },
-  {
-    "objectID": "projects.html#predictive-analytics-model-for-startup-client-stripe-investment-partners",
-    "href": "projects.html#predictive-analytics-model-for-startup-client-stripe-investment-partners",
-    "title": "Projects & Research",
-    "section": "",
-    "text": "Performed feature engineering and preprocessing for a business optimization model.\n\nAdd more sections as needed — presentations, blog posts, research writeups, portfolio items, anything!"
-  },
-  {
-    "objectID": "projects.html#bruinmart---ucla-online-marketplace",
-    "href": "projects.html#bruinmart---ucla-online-marketplace",
-    "title": "Projects & Research",
-    "section": "",
-    "text": "Built a platform for UCLA students to purchase and sell items.\nRepo: https://github.com/ythou00/BruinMart_Official"
-  },
-  {
-    "objectID": "projects.html#analysis-of-world-happiness",
-    "href": "projects.html#analysis-of-world-happiness",
-    "title": "Projects & Research",
-    "section": "",
-    "text": "Analyzed happiness scores across countries using the World Happiness Report to investigate what factors are strong predictors of a country’s happiness scores, and how can these insights inform global policy-making.\nWebsite: https://dhhappiness2024.humspace.ucla.edu/"
-  },
-  {
-    "objectID": "projects.html#credit-score-classification",
-    "href": "projects.html#credit-score-classification",
-    "title": "Projects & Research",
-    "section": "",
-    "text": "Developed classification models to predict credit scores in Python.\nRepo: https://github.com/hyu4/Credit-Score-Classification"
   }
 ]

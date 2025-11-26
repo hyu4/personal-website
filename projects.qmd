@@ -1,15 +1,13 @@
 ---
-title: "Projects & Research"
+title: "🚀 Projects"
 page-layout: article
 ---
-
-# 🚀 Projects 
 
 ## 1. **BruinMart - UCLA Online Marketplace**
 
 Built a platform for UCLA students to purchase and sell items.
 
-Repo: <https://github.com/ythou00/BruinMart_Official>
+Website: <https://bruinmart.vercel.app/home>
 
 ------------------------------------------------------------------------
 
