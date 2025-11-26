@@ -166,9 +166,9 @@ ul.task-list li input[type="checkbox"] {
 <li>Product &amp; Strategy</li>
 </ul>
 <hr>
-<section id="download-my-resume" class="level2">
-<h2 class="anchored" data-anchor-id="download-my-resume">📄 Download My Resume</h2>
-<p><a href="resume.pdf"><strong>Click here to download my CV</strong></a></p>
+<section id="my-resume" class="level2">
+<h2 class="anchored" data-anchor-id="my-resume">📄 My Resume</h2>
+<p><a href="resume.pdf"><strong>View Resume</strong></a></p>
 <hr>
 </section>
 <section id="connect-with-me" class="level2">
@@ -259,7 +259,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/hyu4\.github\.io\/personal-website\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
