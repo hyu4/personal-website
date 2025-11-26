@@ -7,7 +7,7 @@ page-layout: article
 
 Built a platform for UCLA students to purchase and sell items.
 
-Website: <https://bruinmart.vercel.app/home>
+Website: <https://bruinmart.vercel.app/>
 
 ------------------------------------------------------------------------
 
